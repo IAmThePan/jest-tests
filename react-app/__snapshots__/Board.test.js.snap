@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Tests for Board 1`] = `
+<div>
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      onClick={[Function]}
+    >
+      X
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      onClick={[Function]}
+    >
+      x
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+    >
+      o
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      onClick={[Function]}
+    >
+      This is a test
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+    >
+      I am anoather test
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+    >
+      Last test
+    </button>
+  </div>
+</div>
+`;
